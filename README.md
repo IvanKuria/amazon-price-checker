@@ -101,7 +101,3 @@ with smtplib.SMTP("smtp.gmail.com") as connection:
         msg=message
     )
 ```
-
-## License
-
-This project is licensed under the MIT License.
